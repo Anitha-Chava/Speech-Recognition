@@ -16,7 +16,7 @@ This is a simple Python script that converts spoken input into text using the `s
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/speech-recognition-python.git
+    git clone https://github.com/Anitha-Chava/speech-recognition-python.git
     ```
 
 2. Navigate to the project directory:
